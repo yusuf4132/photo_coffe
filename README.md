@@ -1,16 +1,52 @@
-# ismail_ilhan
+# 📸 Photo_Coffe
 
-A new Flutter project.
+**Photo_Coffe** Flutter ile geliştirilmiş, kafelerde fotoğraf çekme ve bu fotoğrafın özel bir yazıcı ile basılarak **kahve bardağı üzerine transfer edilmesini** sağlayan bir mobil uygulamadır.  
+Kullanıcıların unutulmaz anlarını kahve deneyimine dönüştürmeyi amaçlar.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Proje Özeti
 
-A few resources to get you started if this is your first Flutter project:
+Photo_Coffe, aşağıdaki işlemleri kolayca yapabilen bir mobil uygulamadır:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📷 Kullanıcıdan fotoğraf alma
+- 🖼️ Fotoğrafı uygulama içinde önizleme
+- 🖨️ Yazıcıya gönderme
+- ☕ Kahve bardağı üzerine baskı sürecini başlatma
+- 💾 Basılan fotoğrafı kayıt etme
+- 
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Uygulama Özellikleri
+
+### 📷 Fotoğraf Çekme & Seçme
+- Kamera ile yeni fotoğraf çekme
+- Fotoğraf önizleme
+
+---
+
+### 🛠️ Yazıcı Entegrasyonu
+- Bluetooth / Wi‑Fi üzerinden yazıcı ile cihaz bağlantısı
+- Fotoğrafı yazdırma komutu gönderme
+- 
+---
+
+### 🖼️ Önizleme & Düzenleme
+- Çekilen fotoğrafın ekranda gösterilmesi
+- Önceki fotoğrafların listelenmesi
+
+---
+
+## 🧠 Kullanılan Teknolojiler
+
+| Teknoloji           | Kullanım Amacı |
+|--------------------|----------------|
+| **Flutter**        | Cross‑platform mobil uygulama |
+| **Dart**           | Uygulama programlama dili |
+| **Plugins / Packages** | Kamera & Fotoğraf çekme, yazıcı bağlantısı |
+| **Native Android**| Yazıcı SDK’ları için köprü |
+
+---
+
+<img src="./screenshots/1_home.png" />
+<img src="./screenshots/1_home.png" />
