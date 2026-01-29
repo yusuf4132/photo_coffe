@@ -48,5 +48,5 @@ Photo_Coffe, aşağıdaki işlemleri kolayca yapabilen bir mobil uygulamadır:
 
 ---
 
-<img src="./screenshots/1_home.png" />
-<img src="./screenshots/1_home.png" />
+<img src="./assets/images/giris.png" />
+<img src="./assets/images/giris2.png" />
